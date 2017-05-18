@@ -6,8 +6,14 @@ body {
 }
 
 hr {
-  border-width: 5px;
   border-color: #939eaf;
+  border-width: 3px;
+}
+
+.headline {
+  font-size: 28px;
+  color: black;
+  margin-bottom: 2px;
 }
 
 .App {
@@ -19,6 +25,7 @@ hr {
       h1 {
         font-size: 55px;
         margin-bottom: 1px;
+        color: black;
       }
       h2 {
         font-size: 35px;
@@ -35,6 +42,13 @@ hr {
         margin-bottom: 2px;
         display: block;
       }
+    }
+  }
+
+  .Profile {
+    p {
+      font-size: 17px;
+      line-height: 30px
     }
   }
 }
