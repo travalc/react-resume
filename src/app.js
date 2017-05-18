@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
+import NamePlate from './components/NamePlate';
 
-class App Extends Component {
+class App extends Component {
   render() {
     return (
       <div className='App'>
+        <NamePlate />
+        <hr />
       </div>
     )
   }

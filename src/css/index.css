@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #494949;
+  font-family: 'Lato', sans-serif; }
+
+hr {
+  border-width: 5px;
+  border-color: #939eaf; }
+
+.App {
+  padding-left: 5%;
+  padding-right: 5%; }
+  .App .NamePlate .NameAndTitle {
+    display: inline-block; }
+    .App .NamePlate .NameAndTitle h1 {
+      font-size: 55px;
+      margin-bottom: 1px; }
+    .App .NamePlate .NameAndTitle h2 {
+      font-size: 35px;
+      margin-top: 5px;
+      color: #d19604; }
+  .App .NamePlate .ContactInfo {
+    display: inline-block;
+    float: right;
+    margin-top: 80px; }
+    .App .NamePlate .ContactInfo span {
+      font-size: 20px;
+      margin-bottom: 2px;
+      display: block; }
+
+/*# sourceMappingURL=index.css.map */
