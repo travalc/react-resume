@@ -5,7 +5,7 @@ body {
   font-family: 'Lato', sans-serif;
   background-color: #f7f9fc; }
 
-hr {
+.TopHr {
   border-color: #939eaf;
   border-width: 3px; }
 
@@ -85,5 +85,8 @@ hr {
     font-size: 17px;
     line-height: 20px;
     color: #494949; }
+  .App .Footer {
+    float: right;
+    line-height: 0.4; }
 
 /*# sourceMappingURL=index.css.map */

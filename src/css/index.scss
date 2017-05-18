@@ -6,7 +6,7 @@ body {
   background-color: #f7f9fc;
 }
 
-hr {
+.TopHr {
   border-color: #939eaf;
   border-width: 3px;
 }
@@ -127,5 +127,9 @@ hr {
         color: #494949;
       }
     }
+  }
+  .Footer {
+    float: right;
+    line-height: 0.4;
   }
 }
