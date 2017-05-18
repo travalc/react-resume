@@ -58,7 +58,7 @@ hr {
     }
     p {
       font-size: 17px;
-      line-height: 30px;
+      line-height: 25px;
       color: #494949;
     }
     span {
@@ -77,10 +77,41 @@ hr {
         margin-bottom: 2px;
         color: black;
       }
-      .work-description{
+      h3, .work-term {
         margin-left: 1%;
       }
+      .work-description{
+        margin-left: 1.7%;
+      }
       .work-term, .work-description {
+        margin-top: 5px;
+        font-size: 17px;
+      }
+      ul {
+        list-style-type: square;
+      }
+      li {
+        color: #d19604;
+      }
+      p {
+        font-size: 17px;
+        line-height: 20px;
+        color: #494949;
+      }
+    }
+  }
+  .Education {
+    .school-entry {
+      h3 {
+        font-size: 21px;
+        margin-bottom: 2px;
+        color: black;
+      }
+      h3, .school-term {
+        margin-left: 1%;
+      }
+
+      .school-term {
         margin-top: 5px;
         font-size: 17px;
       }

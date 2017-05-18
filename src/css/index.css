@@ -42,7 +42,7 @@ hr {
     list-style-type: square; }
   .App .Skills p {
     font-size: 17px;
-    line-height: 30px;
+    line-height: 25px;
     color: #494949; }
   .App .Skills span {
     color: black;
@@ -53,8 +53,10 @@ hr {
     font-size: 21px;
     margin-bottom: 2px;
     color: black; }
-  .App .Experience .work-entry .work-description {
+  .App .Experience .work-entry h3, .App .Experience .work-entry .work-term {
     margin-left: 1%; }
+  .App .Experience .work-entry .work-description {
+    margin-left: 1.7%; }
   .App .Experience .work-entry .work-term, .App .Experience .work-entry .work-description {
     margin-top: 5px;
     font-size: 17px; }
@@ -63,6 +65,23 @@ hr {
   .App .Experience .work-entry li {
     color: #d19604; }
   .App .Experience .work-entry p {
+    font-size: 17px;
+    line-height: 20px;
+    color: #494949; }
+  .App .Education .school-entry h3 {
+    font-size: 21px;
+    margin-bottom: 2px;
+    color: black; }
+  .App .Education .school-entry h3, .App .Education .school-entry .school-term {
+    margin-left: 1%; }
+  .App .Education .school-entry .school-term {
+    margin-top: 5px;
+    font-size: 17px; }
+  .App .Education .school-entry ul {
+    list-style-type: square; }
+  .App .Education .school-entry li {
+    color: #d19604; }
+  .App .Education .school-entry p {
     font-size: 17px;
     line-height: 20px;
     color: #494949; }
