@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import NamePlate from './components/NamePlate';
 import Profile from './components/Profile';
+import Skills from './components/Skills';
 
 class App extends Component {
   render() {
@@ -9,6 +10,7 @@ class App extends Component {
         <NamePlate />
         <hr className='TopHr'/>
         <Profile />
+        <Skills />
       </div>
     )
   }

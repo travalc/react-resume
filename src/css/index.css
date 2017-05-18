@@ -37,5 +37,17 @@ hr {
   .App .Profile p {
     font-size: 17px;
     line-height: 30px; }
+  .App .Skills ul {
+    list-style-type: square; }
+  .App .Skills p {
+    font-size: 17px;
+    line-height: 30px;
+    color: #494949; }
+  .App .Skills span {
+    color: black;
+    font-weight: 10000;
+    font-size: 21px; }
+  .App .Skills li {
+    color: #d19604; }
 
 /*# sourceMappingURL=index.css.map */

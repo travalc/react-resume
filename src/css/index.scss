@@ -51,4 +51,23 @@ hr {
       line-height: 30px
     }
   }
+  .Skills {
+    ul {
+      list-style-type: square;
+    }
+    p {
+      font-size: 17px;
+      line-height: 30px;
+      color: #494949;
+    }
+    span {
+      color: black;
+      font-weight: 10000;
+      font-size: 21px;
+    }
+    li {
+      color: #d19604;
+
+    }
+  }
 }
