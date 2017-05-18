@@ -9,7 +9,7 @@ class Profile extends Component {
           skills and a passion for writing quality code and learning new technologies.
           Known to be highly adaptable, and thrives in environments that offer challenge
           and opportunity for growth. An excellent communicator and excels as both a member
-          of a team, as well as an individual. Fluent in English and proficient in Spanish
+          of a team, as well as an individual. Fluent in English and proficient in Spanish.
        </p>
       </div>
     )

@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import NamePlate from './components/NamePlate';
 import Profile from './components/Profile';
 import Skills from './components/Skills';
+import Experience from './components/Experience'
 
 class App extends Component {
   render() {
@@ -11,6 +12,7 @@ class App extends Component {
         <hr className='TopHr'/>
         <Profile />
         <Skills />
+        <Experience />
       </div>
     )
   }

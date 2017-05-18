@@ -2,7 +2,8 @@ body {
   margin: 0;
   padding: 0;
   color: #494949;
-  font-family: 'Lato', sans-serif; }
+  font-family: 'Lato', sans-serif;
+  background-color: #f7f9fc; }
 
 hr {
   border-color: #939eaf;
@@ -45,9 +46,25 @@ hr {
     color: #494949; }
   .App .Skills span {
     color: black;
-    font-weight: 10000;
     font-size: 21px; }
   .App .Skills li {
     color: #d19604; }
+  .App .Experience .work-entry h3 {
+    font-size: 21px;
+    margin-bottom: 2px;
+    color: black; }
+  .App .Experience .work-entry .work-description {
+    margin-left: 1%; }
+  .App .Experience .work-entry .work-term, .App .Experience .work-entry .work-description {
+    margin-top: 5px;
+    font-size: 17px; }
+  .App .Experience .work-entry ul {
+    list-style-type: square; }
+  .App .Experience .work-entry li {
+    color: #d19604; }
+  .App .Experience .work-entry p {
+    font-size: 17px;
+    line-height: 20px;
+    color: #494949; }
 
 /*# sourceMappingURL=index.css.map */
